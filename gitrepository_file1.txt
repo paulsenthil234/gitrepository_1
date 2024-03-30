@@ -1,9 +1,18 @@
 Hi 
 Hello World 
 Thank you.
-
+git 
 changes the codes in this file.
 
 Thanks for attending the seminar.
 
+<<<<<<< HEAD
 iwojfjdksjfjsakjfoiasdjjsdkfjlk fkjjsdlkfjlksdjalfjdlk
+=======
+
+
+hfodwjkf fsdfowjfjsd,djkvckjvoijasdj jf 
+
+
+sdjfiwjf sfwofdsfjoijio lkfjfewoijfkl dfkf lkjd
+>>>>>>> c9bf8837785babf9f6716e704a2e96fa2f82feba
